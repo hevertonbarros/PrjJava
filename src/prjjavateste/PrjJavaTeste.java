@@ -16,7 +16,7 @@ public class PrjJavaTeste {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Fim.");
+        System.out.println("Teste de Fim.");
         
     }
     
